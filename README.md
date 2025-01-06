@@ -1,0 +1,2 @@
+[Jon G recommends rustlings before jumping in his book](https://youtu.be/zw88-0ofBs0?si=RsjlNyzho1NKv05U&t=3803) so this is my attempt 
+at solving the exercises in [rustlings](https://github.com/rust-lang/rustlings)
